@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Number Formatter",
+  "version": "1.0",
+  "description": "Convert numbers to circled or parenthesized form",
+  "permissions": [],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "48": "icon.png"
+    }
+  }
+}
