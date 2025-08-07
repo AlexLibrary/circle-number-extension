@@ -1,1 +1,1 @@
-[Extensions_for_FireFox🦊](about:debugging#/runtime/this-firefox)
+about:debugging#/runtime/this-firefox
