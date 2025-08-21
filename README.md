@@ -1,1 +1,1 @@
-[This is an external link to genome.gov](view-source:about:debugging#/runtime/this-firefox)
+[BrowserExtensions](https://github.com/AlexLibrary/BrowserExtensions)
